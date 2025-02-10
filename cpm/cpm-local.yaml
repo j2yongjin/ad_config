@@ -2,4 +2,4 @@ dynamic:
   config:
     cpm:
       rank:
-        method: IMPRESSION
+        method: IMPRESSION_V1
